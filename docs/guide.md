@@ -338,7 +338,7 @@ git push -f git@github.com:zhangyunchencc/zhangyunchencc.github.io.git master
 
 ## 六、发布到自己的个人域名
 
-如果你不满足于 <https://zhangyunchencc.github.io/> 这样的域名，想要一个自己个人的专属域名，比如 <http://www.zhangyunchen.cc/> ，毕竟一些大牛（阮一峰 [http://www.ruanyifeng.com/blog/](http://www.ruanyifeng.com/blog/)） 都是自己名字的网址哦，很方便很酷呢 😎
+如果你不满足于 <https://zhangyunchencc.github.io/> 这样的域名，想要一个自己个人的专属域名，比如 <http://www.zhangyunchenn.cc/> ，毕竟一些大牛（阮一峰 [http://www.ruanyifeng.com/blog/](http://www.ruanyifeng.com/blog/)） 都是自己名字的网址哦，很方便很酷呢 😎
 
 下面跟着步骤一步步来就好啦~
 
@@ -396,7 +396,7 @@ cd -
 
 此时，我们运行 npm run deploy 即可发布到自己的专属域名啦~
 
-### :clap: 大功告成，打开 [https://www.zhangyunchen.cc](https://www.zhangyunchen.cc) 看一下吧~~~
+### :clap: 大功告成，打开看一下吧~~~
 
 拥有自己专属域名的个人博客感觉很酷哦~
 
