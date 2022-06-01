@@ -1,0 +1,31 @@
+{
+  "name": "vuepress_blog",
+  "version": "1.0.0",
+  "description": "Carina's homepage",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs",
+    "deploy": "bash deploy.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Carina957/Carina957.github.io.git"
+  },
+  "keywords": [
+    "githubs",
+    "page",
+    "blog",
+    "open",
+    "source"
+  ],
+  "author": "Carina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Carina957/Carina957.github.io/issues"
+  },
+  "homepage": "https://github.com/Carina957/Carina957.github.io#readme",
+  "dependencies": {
+    "vuepress": "^1.9.7"
+  }
+}
