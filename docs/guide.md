@@ -331,7 +331,7 @@ git push -f git@github.com:zhangyunchencc/zhangyunchencc.github.io.git master
 
 #### 手机端页面是这样的
 
-![ref](/images/eg4.png=200x)
+![ref](/images/eg4.png)
 <img src="/images/eg4.png" style="width: 50%; display: block; margin: 0 auto;">
 
 可以看到导航栏变成了左上角的小图标，可以打开和收起。
